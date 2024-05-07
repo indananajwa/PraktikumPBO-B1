@@ -1,3 +1,10 @@
+/*
+ * File : Senjata.java 05/07/2024
+ * Penulis : Indana Najwa Ramadhani
+ * NIM : 24060122130070
+ * Lab : PBO B1
+ */
+
 public class Senjata {
     private String bunyi;
     private int Peluru;
