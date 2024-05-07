@@ -1,3 +1,10 @@
+/*
+ * File : TestSenjata.java 05/07/2024
+ * Penulis : Indana Najwa Ramadhani
+ * NIM : 24060122130070
+ * Lab : PBO B1
+ */
+
 public class TestSenjata {
     public static void main(String[] args){
         Senjata ak47 = new Senjata("TAR");
